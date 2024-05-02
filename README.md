@@ -32,8 +32,8 @@ Atletismo-Java é um projeto Java desenvolvido para processar os dados de um cam
 ## ☆ Instruções de Uso
 
 1. Biaxe o repositório do projeto, o Java e o JDK.
-2. Abra o projeto em um ambiente de desenvolvimento Java compatível (por exemplo, IntelliJ IDEA, Eclipse).
-3. Compile e execute o arquivo principal "Campeonato2024.java".
+2. Abra o projeto em um ambiente de desenvolvimento Java compatível (por exemplo o IntelliJ IDEA).
+3. Compile e execute o arquivo principal "Main.java".
 4. Utilize a interface gráfica para interagir com as funcionalidades do aplicativo.
 
 ## ☆ Licença
