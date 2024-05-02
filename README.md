@@ -5,12 +5,9 @@
   <a href="#-recursos">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instruções-de-uso">Instruções de Uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-
-![Preview](#)
 
 ## ☆ Descrição
 
@@ -38,18 +35,6 @@ Atletismo-Java é um projeto Java desenvolvido para processar os dados de um cam
 2. Abra o projeto em um ambiente de desenvolvimento Java compatível (por exemplo, IntelliJ IDEA, Eclipse).
 3. Compile e execute o arquivo principal "Campeonato2024.java".
 4. Utilize a interface gráfica para interagir com as funcionalidades do aplicativo.
-
-## ☆ Layout
-Obtenha uma perspectiva detalhada do layout do projeto por meio da imagem abaixo.
-
-<div align="center">
-
-<img src="#" width=400 heigth=350 />
-<img src="#" width=400 heigth=350 />
-<img src="#" width=400 heigth=350 />
-<img src="#" width=400 heigth=350 />
-
-</div>
 
 ## ☆ Licença
 
